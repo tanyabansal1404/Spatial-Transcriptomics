@@ -1,5 +1,5 @@
 # Spatial Transcriptomics
-Spatial Transciptomics (ST) is used to explore the spatial gene expression patterns of cells or tissues. The concept of ST was first proposed by Joakim Lundeberg's team on 2016. ST was also recognized as the "Method of the Year" by Nature Methods in 2021. 
+Spatial Transciptomics (ST) is used to explore the spatial gene expression patterns of cells or tissues. The concept of ST was first proposed by Joakim Lundeberg's team in 2016. ST was also recognized as the "Method of the Year" by Nature Methods in 2021. 
 
 Applications of spatial transcriptomics -
 
